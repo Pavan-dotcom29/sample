@@ -1,1 +1,2 @@
 print("hello pavan update skills")
+Uninitialized data segment often called the "bss" segment, named after an ancient assembler operator, that stood for "Block Started by Symbol" contains global and static variables that are not initialized by the programmer. These variables are automatically initialized to zero at runtime by the operating system. For example, the below shown variables will be stored in this segment:
