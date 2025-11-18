@@ -1,7 +1,7 @@
 # Expense Tracker – C++ Command-Line Version
 
 A simple, lightweight, and fully functional **Expense Tracker** built in modern C++17.  
-Perfect for the [roadmap.sh Expense Tracker project](https://roadmap.sh/projects/expense-tracker) and for learning file I/O, structs, CLI parsing, and data persistence.
+Perfect for the and for learning file I/O, structs, CLI parsing, and data persistence.
 
 ## Features
 - Add expenses with description, amount, and optional category  
