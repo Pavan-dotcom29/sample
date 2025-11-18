@@ -1,0 +1,9 @@
+1|2025-11-18|Coffee|5.50|
+2|2025-11-18|Lunch|18.00|Food
+3|2025-11-18|Morning Coffee at Starbucks|6.80|Food
+4|2025-11-18|Lunch - Sushi|24.50|Food
+5|2025-11-18|Grocery shopping at Lidl|87.30|Groceries
+6|2025-11-18|Beer with friends|18.00|Entertainment
+7|2025-11-18|Monthly metro pass|49.00|Transport
+8|2025-11-18|Uber to airport|35.70|Transport
+9|2025-11-18|Gasoline|62.40|Transport
